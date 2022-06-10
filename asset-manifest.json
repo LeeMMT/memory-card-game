@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memory-card-game/static/css/main.f4d0f1f3.css",
+    "main.js": "/memory-card-game/static/js/main.08eadd86.js",
+    "static/media/OpenSans-Regular.ttf": "/memory-card-game/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/minamino.webp": "/memory-card-game/static/media/minamino.540d3dd54367406e4415.webp",
+    "static/media/origi.webp": "/memory-card-game/static/media/origi.925421b4ee8d2146bcad.webp",
+    "static/media/harvey-elliot.webp": "/memory-card-game/static/media/harvey-elliot.1c7dc54f0acf6d0f0a36.webp",
+    "static/media/salah.webp": "/memory-card-game/static/media/salah.48a63a322d9219b6c199.webp",
+    "static/media/mane.webp": "/memory-card-game/static/media/mane.43fa474632920fb4e547.webp",
+    "static/media/firmino.webp": "/memory-card-game/static/media/firmino.f8904b0476fc3d2c893c.webp",
+    "static/media/jota.webp": "/memory-card-game/static/media/jota.6b72824e1418974e4be2.webp",
+    "static/media/diaz.webp": "/memory-card-game/static/media/diaz.0785030c916fd7de4dd6.webp",
+    "index.html": "/memory-card-game/index.html",
+    "main.f4d0f1f3.css.map": "/memory-card-game/static/css/main.f4d0f1f3.css.map",
+    "main.08eadd86.js.map": "/memory-card-game/static/js/main.08eadd86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4d0f1f3.css",
+    "static/js/main.08eadd86.js"
+  ]
+}
